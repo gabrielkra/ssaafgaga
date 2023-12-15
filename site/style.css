@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: #424E61;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px 0;
+}
+
+.cabecalho-imagem_0{
+    width: 5%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 16px;
+}
+
+.cartola-imagem_1{
+    width: 25%;
+    margin: 0px 40px;
+}
+
+.cartola{
+    background-image: linear-gradient(#8f6d42,#f0b075);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cartola-div-conteudo{
+    width: 35%;
+}
+
+.cartola_h{
+    background-image: linear-gradient(#f0b075, #8f6d42);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cartola-imagem_2{
+    width: 20%;
+    margin: 0px 40px
+}
+
+.cartola_h-titulo3{ 
+    font-size: 17px;
+}
+
+.cartola_h-texto-t {
+    font-size: 12px;
+    text-align: justify;
+}
+.cartola_h-teoria{
+    font-size: 17px;
+}
+.cartola_h-t{
+    font-size: 12px;
+}
